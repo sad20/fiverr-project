@@ -1,0 +1,22 @@
+@media screen and (min-width:0px) and (max-width:400px) {
+    .video-content {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 27px;
+    }
+
+    .video-content p {
+        text-align: justify;
+    }
+
+    .video-area-bg {
+        padding: 100px 0;
+
+    }
+}
+
+@media screen and (min-width:401px) and (max-width:767px) {
+    .video-content {
+        margin-top: 40px;
+    }
+}
